@@ -1,1 +1,1 @@
-Auto resume uploader project developed in Spring Boot
+Auto resume uploader project developed using Java Spring Boot
